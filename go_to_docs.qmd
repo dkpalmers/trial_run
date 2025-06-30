@@ -1,0 +1,5 @@
+---
+title: "Go to docs"
+---
+
+When this renders does it go to docs?
